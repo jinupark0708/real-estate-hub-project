@@ -1,6 +1,4 @@
-## 폴더구조
 
-- 도메인 (레이어X)
 
 ## Spring Initializr
 
